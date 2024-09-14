@@ -16,6 +16,12 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#services"
 
+  overview:
+    title: Tutorial Overview
+    body: 123
+    section: overview
+
+
   services:
     title: "Services"
     text: "Lorem ipsum"
