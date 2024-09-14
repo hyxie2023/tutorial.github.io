@@ -16,16 +16,11 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#services"
 
-  overview:
-    title: Tutorial Overview
-    body: 123
-    section: overview
-
-
   services:
     title: "Services"
     text: "Lorem ipsum"
     section: services
+    body: "123456"
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -36,6 +31,11 @@ en: &DEFAULT_EN
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
+
+  overview:
+    title: "Tutorial Overview"
+    body: 123456
+    section: overview
 
   portfolio:
     title: "Portfolio"
