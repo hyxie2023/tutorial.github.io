@@ -69,11 +69,11 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-  about:
-    title: "About Us"
-    text: "123456"
-    body: "Liciatis. **Markdown** supported."
-    section: about
+  about1:
+    title: "About Us1"
+    text: "1234561"
+    body: "Liciatis. **Markdown** supported.1"
+    section: about1
 
   about2:
     title: "About2 Us"
