@@ -38,12 +38,6 @@ en: &DEFAULT_EN
     body: "123456789"
     section: overview
 
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
-
   timeline:
     title: "Timeline"
     text: "Lorem ipsum timeline"
@@ -77,8 +71,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "123456"
+    body: "Liciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
   clients:
