@@ -33,9 +33,9 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   overview:
-    title: "Tutorial Overview"
+    title: "overview"
     text: "123456"
-    body: "123456789"
+    body: "overview"
     section: overview
 
   timeline:
