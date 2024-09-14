@@ -72,7 +72,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "123456"
-    body: "Liciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Liciatis. **Markdown** supported."
     section: about
 
   clients:
