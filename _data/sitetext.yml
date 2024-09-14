@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     title: "Services"
     text: "Lorem ipsum"
     section: services
-    body: "123456"
+    body: "123"
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
