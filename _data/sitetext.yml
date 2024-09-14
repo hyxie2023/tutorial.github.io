@@ -34,7 +34,8 @@ en: &DEFAULT_EN
 
   overview:
     title: "Tutorial Overview"
-    body: 123456
+    text: "123456"
+    body: "123456789"
     section: overview
 
   portfolio:
