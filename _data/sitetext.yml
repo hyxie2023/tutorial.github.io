@@ -75,6 +75,12 @@ en: &DEFAULT_EN
     body: "Liciatis. **Markdown** supported."
     section: about
 
+  about2:
+    title: "About2 Us"
+    text: "1234562"
+    body: "Liciatis. **Markdown** supported.2"
+    section: about2
+
   clients:
     section: clients
     max-height: 100px
